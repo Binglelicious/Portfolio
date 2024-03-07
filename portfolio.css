@@ -1,0 +1,11 @@
+.profile-Picture{
+    width: 15;
+    height: 100%;
+    border: 2px solid pink;
+    background-color: pink;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
